@@ -1,2 +1,3 @@
 # 8085sim
-8085 simulator
+
+## Intel 8085
